@@ -1,0 +1,82 @@
+:root {
+	--preto: #141414;
+	--vermelho: #E50914;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Times New Roman', Times, serif;
+	
+}
+
+body {
+	background-color: var(--preto);
+
+}
+
+header .content {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+header .logo-netflix {
+	margin-left: 5px;
+	color: var(--vermelho);
+	font-family: 'Arial Black', Times;
+	font-size: 40px;
+}
+
+header nav a {
+	text-decoration: none;
+	color: #AAA;
+	margin-right: 10px;
+}
+
+header nav a:hover {	
+	color: #fff;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

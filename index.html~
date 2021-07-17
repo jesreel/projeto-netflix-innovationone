@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=devide-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<title>Project Netflix</title>
+</head>
+<body>
+	<header>
+		<div class="content">
+			<h2>NETFLIX</h2>
+			<nav>
+				<a href="#" >Início</a>
+				<a href="#" >Séries</a>
+				<a href="#" >Filmes</a>
+				<a href="#" >Documentários</a>
+			</nav>
+		</div>
+	</header>
+
+</body>
+</html>
