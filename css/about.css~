@@ -1,0 +1,149 @@
+.banner-about {
+	display: flex;
+	flex-direction: row;			
+}
+
+.cart {	
+	width: 30%;	
+	padding: 10px;	
+	#text-align: center;	
+	
+}
+
+.cart img {		
+	width: 100%;
+	display: block;	
+}
+
+.return2 {
+	position: absolute;
+	margin: 0 auto;	
+	background-color: white;
+	
+	color: #111;
+	padding: 15px 15px;	
+	width: 20%;
+	
+	transition: 0.3s ease all;
+}
+
+.return {	
+	position: absolute;	
+	background-color: #fff;
+	color: #111;
+	text-decoration: none;
+	padding: 15px 30px;
+	border:none;
+	cursor: pointer;
+	
+}
+
+.return:hover {
+	background-color: #fff;	
+	color: #111;
+}
+
+.about {	
+	width: 70%; 	
+	padding: 10px;
+}
+
+.about-title-one {		
+	font-size: 30px;
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	margin-bottom: 25px;
+}
+
+.about .about-title {
+	margin-bottom: 5px;
+}
+
+
+.actor {
+	margin-right: 10px;
+	width: 20%;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.actor img {
+	width: 90%;
+	display: block;
+}
+
+
+
+/* --------- RESPONSIVE ABOUT ----------- */
+
+@media screen and (max-width: 700px) {
+	
+	.banner-about {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 10px;
+	}	
+	
+	.cart {
+		width: 100%;
+		padding: 5px;	
+	}
+	
+	.cart img {		
+		width: 100%;
+		display: block;	
+	}
+
+	.about {	
+		width: 100%; 	
+		padding: 10px;
+	}
+	
+	.actor {		
+		width: 100%;		
+		margin-bottom: 20px;
+	}
+
+	.actor img {
+		width: 90%;
+		display: block;
+	}		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

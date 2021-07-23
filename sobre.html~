@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=devide-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/about.css" />
+<!-- Carousel -->
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css" />
+<link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" />
+<title>Project Netflix</title>
+</head>
+<body>
+	<header>
+		<div class="content">
+			<h2 class="logo-netflix">NETFLIX</h2>
+			<nav>
+				<a href="#" >Início</a>
+				<a href="#" >Séries</a>
+				<a href="#" >Filmes</a>
+				<a href="#" >Documentários</a>
+				<a href="." ><strong>Voltar</strong></a>
+			</nav>
+		</div>
+	</header>
+	
+	<main>
+		<div class="banner-about">	
+			<div class="cart">	
+				<!-- <a class="return" href=".">Voltar</a> -->		
+				<img src="img/thumb5.jpg" alt="Capa do filme escolhido">				
+			</div>	
+			<div class="about">
+				<h2 class="about-title-one">UM SONHO DE LIBERDADE</h2>
+				<h2 class="about-title">Sinopse</h2>
+				<p>
+					Connor MacLeod, um guerreiro escocês do século XVI, imortal e, após algum tempo, encontra Juan Ramirez, imortal como ele. Após alguns séculos, surge um inimigo, imortal como ambos, 
+					que pretende decapitar Connor, para se tornar o único imortal da face da Terra.
+				</p>
+				<br><br>
+				
+				<h2 class="about-title">Elenco</h2>
+				<div class="content-actor">
+					<div class="actor">
+						<div class="img-actor">			
+							<img src="img/actor1.png" alt="Actor">
+						</div>	
+						<div class="desciption-actor">			
+							<h3>Morgan Freeman</h3>
+							<span>Reddyng</span>
+						</div>
+					</div>	
+					<div class="actor">
+						<div class="img-actor">			
+							<img src="img/actor2.png" alt="Actor">
+						</div>	
+						<div class="desciption-actor">			
+							<h3>Tim Robins</h3>
+							<span>Dufresne</span>
+						</div>
+					</div>	
+					<div class="actor">
+						<div class="img-actor">			
+							<img src="img/actor3.png" alt="Actor">
+						</div>	
+						<div class="desciption-actor">			
+							<h3>Bob Gunton</h3>
+							<span>Dir. Norton</span>
+						</div>
+					</div>	
+					<div class="actor">
+						<div class="img-actor">			
+							<img src="img/actor4.png" alt="Actor">
+						</div>	
+						<div class="desciption-actor">			
+							<h3>William Sadle</h3>
+							<span>Heywood</span>
+						</div>
+					</div>	
+					<div class="actor">
+						<div class="img-actor">			
+							<img src="img/actor5.png" alt="Actor">
+						</div>	
+						<div class="desciption-actor">			
+							<h3>Mark Rolston</h3>
+							<span>Bogs</span>
+						</div>
+					</div>	
+					<div class="actor">
+						<div class="img-actor">			
+							<img src="img/actor6.png" alt="Actor">
+						</div>	
+						<div class="desciption-actor">			
+							<h3>Clancy Brown</h3>
+							<span>Cap. Hadley</span>
+						</div>
+					</div>						
+				</div>
+			</div>			
+		</div>
+	</main>
+	
+	<script src="https://kit.fontawesome.com/2c36e9b7b1.js"></script>
+	
+</body>
+</html>
