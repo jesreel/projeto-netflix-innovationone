@@ -1,4 +1,4 @@
-# Projeto: página do NetFlix
+# Projeto: página do Netflix
 
 
 Projeto do Bootcamp **HTML Web Developer** da Digital Innovation One.
